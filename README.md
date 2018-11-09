@@ -2,16 +2,6 @@
 
 &emsp;&emsp;该项目是基于vue全家桶（vue、vue-router、vuex、vue SSR）开发的一套博客前台页面，主要功能包括首页显示、认证系统、文章管理、评论管理和点赞管理
 
-### 访问地址
-
-&emsp;&emsp;域名：[https://xiaohuochai.cc](https://xiaohuochai.cc)
-
-&emsp;&emsp;Github: [https://github.com/littlematch0123/blog-client](https://github.com/littlematch0123/blog-client)
-
-&emsp;&emsp;或者可以直接扫描二维码访问
-
-![qrCode](screenshots/qrCode.png)
-
 ### 项目介绍
 
 &emsp;&emsp;该项目的内容以笔者自学前端的过程中写的600多篇博客为基础，对于同样学习前端的同学可能会有所帮助。许多博客都有直接可以操作的DEMO，对知识的理解可能会更直观
